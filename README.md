@@ -84,4 +84,11 @@
 
 
 ## Источники
-    
+
+* https://marketing.rbc.ru/articles/12202
+* https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%B8_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5
+* https://vc.ru/transport/184077-deptrans-moskvy-dolya-yandeks-taksi-v-zakazah-za-sutki-vyrosla-do-70-8-v-noyabre-na-3-bolshe-chem-v-iyune
+* https://www.vedomosti.ru/business/articles/2020/06/11/832466-yandekstaksi-vezet
+* https://rg.ru/2019/10/01/rossiiane-stali-chashche-polzovatsia-uslugami-taksi.html
+* https://iz.ru/876402/2019-05-08/nazvana-sredniaia-prodolzhitelnost-poezdki-na-taksi-v-moskve
+* https://developers.google.com/maps/documentation/javascript/mysql-to-maps
