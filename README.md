@@ -155,7 +155,7 @@ Insert'a в эту таблицу
     DO
     UPDATE SET lat = EXCLUDED.lat, lng = EXCLUDED.lng, location = EXCLUDED.location;
 ```
-время insert/update для 100тыс ![](files/bench.png)
+время insert/update для 100тыс ![](files/timings.png)
 
 итого 1 шард выдерживает около 20тыс rps
 
